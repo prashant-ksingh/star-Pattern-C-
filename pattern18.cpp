@@ -1,5 +1,11 @@
 // Rohmbus
 
+//  * * * * * *   
+//   * * * * * *  
+//    * * * * * * 
+//     * * * * * *
+//      * * * * * *
+
 #include <iostream>
 
 using namespace std;

@@ -1,6 +1,10 @@
-
-
 // Obtuse Triangle
+
+//  * *
+//   * * *
+//    * * * *
+//     * * * * *
+//      * * * * * *
 
 #include <iostream>
 
